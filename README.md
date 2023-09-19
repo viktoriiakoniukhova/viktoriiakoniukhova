@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Viktoriia Koniukhova profile views](https://u8views.com/api/v1/github/profiles/89860956/views/day-week-month-total-count.svg)](https://u8views.com/github/viktoriiakoniukhova)
+
 <!--
 **viktoriiakoniukhova/viktoriiakoniukhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
